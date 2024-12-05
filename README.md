@@ -20,7 +20,7 @@ Bot allows users to generate referral links, track total referrals, and view a l
     DATABASE_URI ='postgresql://postgres:postgres@localhost:5432/db'
     LOG_CHANNEL =     #Channel Id to get bot error logs
     SUDO_USERS=[] #User Ids who can access bot admin panel
-    BOT_TOKEN='1393190801:AAFSRCGOQAajiyY7SE5kxTDTcaPDecOQAjs'
+    BOT_TOKEN='7674751753:AAHldci1wali84yFzX-AlvtE9NlFq7OMxgI'
     WORKERS = 8
     SUPPORT_CHANNEL='' #Channel where referal users need to join 
    ```
